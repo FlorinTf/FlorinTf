@@ -3,7 +3,7 @@
 
 
 I am a self-taught developer from Romania.
-Since I discovered coding, I decided that this is what I want to do every day, so I am doing a professional reconversion.
+Since I discovered coding, I decided that is what I want to do every day, so I am doing a professional reconversion.
 
 
 - 🔭 I’m currently working on this page. 
