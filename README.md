@@ -5,7 +5,7 @@
 I am a self-taught developer from Romania.
 Since I discovered coding, I decided that is what I want to do every day, so I am doing a professional reconversion.
 
--  :eyes: Enthusiastic junior web developer
+-  :eyes: Enthusiastic Junior Developer looking jor a job
 - 🌱 I’m currently learning Python 
 - 🤝 How to reach me: florin.tirlogeanu@yahoo.com 
 
