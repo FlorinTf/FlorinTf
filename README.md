@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Florin
 #### I am a Junior Developer eager to learn more and improve my skills and experience.
-![I am a Junior Developer eager to learn more and improve my skills and experience.](banner.png)
+
 
 I am a self-taught developer from Romania.
 Since I discovered coding, I have decided that this is what I want to do every day, so I am doing a professional reconversion.
