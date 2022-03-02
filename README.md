@@ -7,8 +7,8 @@
 
 #### Examples of my portofolio
 <p>Computer Vision projects Python - Hand Detection.</p>
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=j0QsrOLacF0
-" ><img src="http://img.youtube.com/vi/j0QsrOLacF0/0.jpg" alt="Computer Vision my first project Opencv Python - Hands Detection"
+<a href="https://www.youtube.com/watch?v=j0QsrOLacF0
+" target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/j0QsrOLacF0/0.jpg" alt="Computer Vision my first project Opencv Python - Hands Detection"
  width="240" height="160" border="10" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FlorinTf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw)  
