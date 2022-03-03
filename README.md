@@ -5,7 +5,7 @@
 - 🌱 I'm currently growing my knowledge of Python
 - 🤝 How to reach me: florin.tirlogeanu@yahoo.com 
 
-#### Examples of my portofolio
+#### Examples of my portfolio
 <p>Computer Vision projects Python - Hand Detection.</p>
 <a href="https://www.youtube.com/watch?v=j0QsrOLacF0
 " target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/j0QsrOLacF0/0.jpg" alt="Computer Vision my first project Opencv Python - Hands Detection"
