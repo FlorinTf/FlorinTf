@@ -16,6 +16,8 @@
 <a href="https://www.youtube.com/watch?v=pTZIJVGCDSs
 " target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/pTZIJVGCDSs/0.jpg" alt="Computer Vision project Hockey Game in Python Hand Detection and Pygame"
  width="240" height="160" border="10" /></a>
+ <p>:arrow_down:Computer Vision :movie_camera:- Hand Detection  /   :arrow_down: Selenium generate affiliate link/Computer Vision:arrow_down: Hockey Game in Python:</p>
+<a href="https://www.youtube.com/watch?v=j0QsrOLacF0
  <a href="https://www.youtube.com/watch?v=pTZIJVGCDSs
 " target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/pTZIJVGCDSs/0.jpg" alt="Computer Vision project Hockey Game in Python Hand Detection and Pygame"
  width="240" height="160" border="10" /></a>
