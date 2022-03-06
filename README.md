@@ -4,7 +4,7 @@
 -  :eyes: Enthusiastic Junior Developer looking for a job
 - 🌱 I'm currently growing my knowledge of Python
 - 🤝 How to reach me: florin.tirlogeanu@yahoo.com 
-- :clapper: I have my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Chanel</a></p>&nbsp;</div><br /><p></p>
+- :clapper: I have my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Channel</a></p>&nbsp;</div><br /><p></p>
 
 #### Examples of my portfolio
 <p>:arrow_down:Computer Vision :movie_camera:- Hand Detection  /   :arrow_down:  Selenium generate affiliate link /   Computer Vision :ice_hockey: Hockey Game:arrow_down: in Python:</p>
