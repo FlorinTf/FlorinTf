@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Florin
-#### I am a self-taught developer from Romania. Ever since I discovered coding, I've decided that's what I want to do every day, so I'm doing a professional reconversion. I am eager to learn more and improve my skills and experience.
+#### I am a self-taught developer looking for a Junior Developer job.  I'm doing a professional reconversion and I am eager to learn more and improve my skills and experience.
 
 -  :eyes: Enthusiastic Junior Developer looking for a job
 - 🌱 I'm currently growing my knowledge of Python
