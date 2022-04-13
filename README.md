@@ -17,7 +17,7 @@
 <a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
  width="270" height="160" border="10" /></a>
- <p> / /  :arrow_down: My Daily News:newspaper: & Weather:partly_sunny:  App /  /  / :arrow_down: Register_Ticket_App / :arrow_down:/ /  / /  /  /  :arrow_down: eMAG-Notifications Web Scraping </p>
+ <p> / /  :arrow_down: My Daily News:newspaper: & Weather:partly_sunny:  App /  /  / :arrow_down: Register Ticket Print App  :arrow_down: / /  / /  /  /  :arrow_down: eMAG-Notifications Web Scraping </p>
  <a href="https://github.com/FlorinTf/Daily_News-_Weather_App" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Daily_News-_Weather_App/blob/main/News%20App%20in%20Python%20Tkinter%20collect%20data%20from%20API%20news%2Cexchange%20rate%20and%20weather.gif" alt="My Daily News App"
  width="270" height="160" border="10" /></a>
  <a href="https://github.com/FlorinTf/Register_Ticket
