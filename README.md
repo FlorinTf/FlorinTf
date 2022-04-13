@@ -21,6 +21,10 @@
  <a href="https://www.youtube.com/watch?v=LyRzNSQ8jso
 " target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/LyRzNSQ8jso/0.jpg" alt="My Daily News App"
  width="240" height="160" border="10" /></a>
+ <a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif
+" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
+ width="240" height="160" border="10" /></a>
+ ![Alt Text](https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif)
  
  
 
