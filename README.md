@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/watch?v=p-9a95IC1lc
 " target="_blank" rel="noopener noreferrer" ><img src="http://img.youtube.com/vi/p-9a95IC1lc/0.jpg" alt="Selenium Automatically generate an affiliate link In Python"
  width="270" height="160" border="10" /></a>
-<a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif
+<a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
  width="270" height="160" border="10" /></a>
  <p>:arrow_down:My Daily News:newspaper: & Weather:partly_sunny: App  / :arrow_down:eMAG-Notifications Web Sraping </p>
