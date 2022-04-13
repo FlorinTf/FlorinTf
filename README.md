@@ -13,7 +13,7 @@
  width="270" height="160" border="10" /></a>
 <a href="https://github.com/FlorinTf/Selenium_generate_affiliate_link
 " target="_blank" rel="noopener noreferrer" ><img src="https://user-images.githubusercontent.com/96166795/156626353-d81749ef-ea8d-4916-a0c3-be9ee162f9a9.jpg"
- width="240" height="160" border="10" /></a>
+ width="270" height="160" border="10" /></a>
 <a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
  width="270" height="160" border="10" /></a>
@@ -22,10 +22,10 @@
  width="270" height="160" border="10" /></a>
  <a href="https://github.com/FlorinTf/Register_Ticket
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Register_Ticket/blob/main/Registration%20form%20in%20Python%20with%20Tkinter.png" alt="Register_Ticket_App"
- width="240" height="160" border="10" /></a>
+ width="270" height="160" border="10" /></a>
   <a href="https://github.com/FlorinTf/eMAG-Notifications
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/eMAG-Notifications/blob/main/eMAG%20WebScraping.gif" alt="My Daily News App"
- width="240" height="160" border="10" /></a>
+ width="270" height="160" border="20" /></a>
  
 
  
