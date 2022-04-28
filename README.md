@@ -24,7 +24,7 @@
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Register_Ticket/blob/main/Registration%20form%20in%20Python%20with%20Tkinter.png" alt="Register_Ticket_App"
  width="270" height="160" border="10" /></a>
   <a href="https://github.com/FlorinTf/eMAG-Notifications
-" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/eMAG-Notifications/blob/main/eMAG%20WebScraping.gif" alt="My Daily News App"
+" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/eMAG-Notifications/blob/main/eMAG-Notifications.png" alt="eMAG-Notifications App"
  width="270" height="160" border="20" /></a>
  
 
