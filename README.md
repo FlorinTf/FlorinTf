@@ -17,11 +17,11 @@
 <a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
  width="270" height="160" border="10" /></a>
- <p> / /  :arrow_down: My Daily News:newspaper: & Weather:partly_sunny:  App /  / / / /  / :arrow_down: Register Ticket Print App  :arrow_down: / /  / /  /  /  :arrow_down: eMAG-Notifications Web Scraping </p>
+ <p>   :arrow_down: My Daily News:newspaper: & Weather:partly_sunny:  App /  / /  :arrow_down: Track Phone Number  :arrow_down: / /  / /  /  /  :arrow_down: eMAG-Notifications Web Scraping </p>
  <a href="https://github.com/FlorinTf/Daily_News-_Weather_App" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Daily_News-_Weather_App/blob/main/Daily%20News.jpg" alt="My Daily News App"
  width="270" height="160" border="10" /></a>
- <a href="https://github.com/FlorinTf/Register_Ticket
-" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Register_Ticket/blob/main/Registration%20form%20in%20Python%20with%20Tkinter.png" alt="Register_Ticket_App"
+ <a href="https://github.com/FlorinTf/Track-Phone-Number-find-info-and-get-Map
+" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Track-Phone-Number-find-info-and-get-Map/blob/main/Track%20Phone%20Number%20GPS%20find%20info%20on%20phone%20numbers%20with%20Phone%20Info.png" alt="Track-Phone-Number"
  width="270" height="160" border="10" /></a>
   <a href="https://github.com/FlorinTf/eMAG-Notifications
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/eMAG-Notifications/blob/main/eMAG-Notifications.png" alt="eMAG-Notifications App"
