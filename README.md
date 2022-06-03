@@ -4,7 +4,7 @@
 -  :eyes: Enthusiastic Junior Developer looking for a job
 - 🌱 I'm currently growing my knowledge of Python
 - 🤝 How to reach me: florin.tirlogeanu@yahoo.com 
-- - :clapper: You can see some of my projects on my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Channel :clapper:</a></p>&nbsp;</div><br /><p></p>
+- :clapper: You can see some of my projects on my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Channel :clapper:</a></p>&nbsp;</div><br /><p></p>
 
 
 #### Examples of my portfolio
