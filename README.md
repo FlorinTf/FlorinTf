@@ -3,7 +3,7 @@
 
 -  :eyes: Enthusiastic Junior Developer looking for a job
 - 🌱 I'm currently growing my knowledge of Python
-- 💻 I'm currently working on a Flask project that is deployed here <a target="_blank" href="https://www.phone-locator.onrender.com/"> phone-locator.onrender.com/ </a>
+- 💻 I'm currently working on a Flask project that is deployed here <a target="_blank" href="https://phone-locator.onrender.com/"> phone-locator.onrender.com/ </a>
 - 🤝 How to reach me: florin.tirlogeanu@yahoo.com 
 - My Codewars Profile <a href="https://www.codewars.com/users/WuCode" target="_blank" rel="noopener noreferrer" ><img src="https://www.codewars.com/users/WuCode/badges/small" alt="My Codewars Profile" border="100" /></a> 
 - :clapper: You can see some of my projects on my <a href="https://www.youtube.com/channel/UCTVESVE0yPiwvg-VbrLGLuw" target="_blank">Youtube Channel :clapper:</a></p>&nbsp;</div><br /><p></p>
