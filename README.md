@@ -10,12 +10,11 @@
 
 
 #### Examples of my portfolio
-<p>:arrow_down:Computer Vision  :movie_camera: - Hand Detection / / /  :arrow_down:  Selenium generate  :moneybag:   affiliate link /  /  /    Computer Vision :ice_hockey: Hockey Game:arrow_down: in Python:</p>
+<p>:arrow_down:Computer Vision  :movie_camera: - Hand Detection / / /  📲  Phone Locator  🗺️   Flask Project /  /  /    Computer Vision :ice_hockey: Hockey Game:arrow_down: in Python:</p>
 <a href="https://github.com/FlorinTf/FruitsGame_Computer_Vision_Hands-Detection
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/FruitsGame_Computer_Vision_Hands-Detection/blob/main/Computer%20Vision%20Opencv%20Hand%20Detection%20project.gif" alt="Computer Vision Opencv Hand Detection project"
  width="270" height="160" border="10" /></a>
-<a href="https://github.com/FlorinTf/Selenium_generate_affiliate_link
-" target="_blank" rel="noopener noreferrer" ><img src="https://user-images.githubusercontent.com/96166795/156626353-d81749ef-ea8d-4916-a0c3-be9ee162f9a9.jpg"
+<a href="https://github.com/FlorinTf/Phone_locator" target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Phone_locator/blob/master/Screen_shot.png"
  width="270" height="160" border="10" /></a>
 <a href="https://github.com/FlorinTf/Computer-Vision-Hockey-Game
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif"
