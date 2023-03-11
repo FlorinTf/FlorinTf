@@ -10,7 +10,7 @@
 
 
 #### Examples of my portfolio
-<p>:arrow_down:Computer Vision :movie_camera:-Hand Detection / / 📲  Phone Locator  🗺️   Flask Project /  /  /    Computer Vision :ice_hockey: Hockey Game:arrow_down: in Python:</p>
+<p>:arrow_down:Computer Vision :movie_camera:-Hand Detection / / / 📲  Phone Locator  🗺️   Flask Project /  /  /    Computer Vision :ice_hockey: Hockey Game:arrow_down: in Python:</p>
 <a href="https://github.com/FlorinTf/FruitsGame_Computer_Vision_Hands-Detection
 " target="_blank" rel="noopener noreferrer" ><img src="https://github.com/FlorinTf/FruitsGame_Computer_Vision_Hands-Detection/blob/main/Computer%20Vision%20Opencv%20Hand%20Detection%20project.gif" alt="Computer Vision Opencv Hand Detection project"
  width="270" height="160" border="10" /></a>
